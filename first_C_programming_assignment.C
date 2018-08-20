@@ -44,5 +44,13 @@
 
 int main(int argc, char** argv) {
   printf("Hello world!");
-}
+  // initialize for loop
+  for (int i = 0; i < 5; i++) {
+    printf("%d", i);
+  }
+  printf("\n");
 
+  for (int i = 5; i < 10; i++) {
+    
+  }
+}
